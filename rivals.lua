@@ -1,5 +1,5 @@
 -- Statut du cheat : "ON" ou "OFF"
-local cheatStatus = "OFF"  -- Change cette valeur pour "OFF" si tu veux désactiver le cheat
+local cheatStatus = "ON"  -- Change cette valeur pour "OFF" si tu veux désactiver le cheat
 
 -- Si le cheat est désactivé ("OFF"), le script s'arrête ici
 if cheatStatus == "OFF" then
